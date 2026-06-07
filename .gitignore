@@ -48,3 +48,9 @@ bun.lock
 .claude/memory/
 career-dashboard
 package-lock.json
+
+# Personal data — added by fork owner (never push)
+memory.md
+my-content/
+dashboard/dashboard.exe
+batch/tracker-additions/merged/
